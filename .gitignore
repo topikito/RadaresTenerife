@@ -1,4 +1,4 @@
-
+*.pyc
 settings.cfg
 
 retweet_radar.log
